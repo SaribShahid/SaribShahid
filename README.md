@@ -158,9 +158,9 @@ Currently exploring:
 
 ## 🏆 Leadership
 
-**President — Idyllic Youth, UCP**
+**President — Idyllic Youth UCP**
 
-**Director Marketing — IEEE Computer Society UCP**
+**Director Marketing — Idyllic Youth UCP**
 
 Actively involved in organizing and promoting technical events, student initiatives, workshops, and learning communities.
 
@@ -168,9 +168,9 @@ Actively involved in organizing and promoting technical events, student initiati
 
 ## 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=SaribShahid&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaribShahid&layout=compact&theme=transparent&hide_border=true" height="165"/>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaribShahid&show_icons=true&theme=transparent&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaribShahid&layout=compact&theme=transparent&hide_border=true" height="165" />
 </p>
 
 ---
