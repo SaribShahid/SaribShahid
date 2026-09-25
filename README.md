@@ -169,7 +169,7 @@ Actively involved in organizing and promoting technical events, student initiati
 ## 📊 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SaribShahid&show_icons=true&theme=transparent&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaribShahid&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
