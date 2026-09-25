@@ -170,7 +170,7 @@ Actively involved in organizing and promoting technical events, student initiati
 
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaribShahid&layout=compact&theme=transparent&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -181,7 +181,7 @@ Actively involved in organizing and promoting technical events, student initiati
   <a href="https://www.linkedin.com/in/sarib-shahid-6abb05323/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
-  <a href="YOUR_PORTFOLIO_URL">
+  <a href="https://sarib-portfolio-czapavgcfrcpenhm.centralindia-01.azurewebsites.net/#resume">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=google-chrome" />
   </a>
 </p>
