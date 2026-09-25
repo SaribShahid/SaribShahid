@@ -210,11 +210,11 @@ University of Central Punjab — Lahore, Pakistan
 
 ## 🏆 Leadership
 
-### President — Idyllic Youth, UCP
+### President — Idyllic Youth UCP
 
 Leading student initiatives and contributing to technical, professional, and community-focused activities.
 
-### Director Marketing — IEEE Computer Society UCP
+### Director Marketing — Idyllic Youth UCP
 
 Contributed to organizing and promoting technical events, workshops, and student learning initiatives.
 
