@@ -42,10 +42,13 @@ I enjoy turning real-world requirements into working software — from designing
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
 </p>
 
-### AI / Machine Learning
+### 🤖 AI / Machine Learning
 
-**Python · Scikit-learn · Generative AI · LLM APIs · Prompt Engineering · AI Agents · RAG · MCP**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
 
+**Scikit-learn · Generative AI · LLM APIs · Prompt Engineering · AI Agents · RAG · MCP**
 ### Cloud & Development Tools
 
 <p>
@@ -234,6 +237,12 @@ Production-Ready AI Applications
 ```
 
 ---
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaribShahid&show_icons=true&hide_border=true&rank_icon=github" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaribShahid&layout=compact&hide_border=true" height="170" />
+</p>
 
 ## 📫 Let's Connect
 
